@@ -1,0 +1,27 @@
+a {
+    text-decoration: underline;
+}
+
+input,
+textarea {
+    border: 1px solid #1b2538;
+}
+
+button {
+    background-color: lightgray;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+button:hover {
+    background-color: gray;
+    color: white;
+}
+
+.post__error {
+    color: red;
+}
+
+.comment__poster {
+    background-color: lightgray;
+}
